@@ -38,5 +38,3 @@ class Futbolista(Persona,Deportista):
 
 
 
-futbolista = Futbolista("Juan Pablo", 30, "1,80", "M", 12, 400, 1, "Derecha")
-futbolista.__str__()
